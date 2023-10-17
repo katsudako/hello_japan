@@ -1,6 +1,6 @@
 # hello_japan
 
-hoge
+## hoge
 
 ## brtestブランチで行を追加
 
