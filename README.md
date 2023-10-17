@@ -1,5 +1,7 @@
 # hello_japan
 
+hoge
+
 ## brtestブランチで行を追加
 
 - ローカルで編集しました
